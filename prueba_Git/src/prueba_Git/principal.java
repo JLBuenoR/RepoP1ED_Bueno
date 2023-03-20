@@ -6,6 +6,8 @@ public class principal {
 		
 		System.out.println("Prueba de Git para entornos de "
 				+ "Desarrollo.");
+		
+		System.out.println("Segundo mensaje de prueba");
 
 	}
 
